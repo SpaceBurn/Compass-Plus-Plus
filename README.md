@@ -1,4 +1,4 @@
-Compass-edu
+Compass-Plus-Plus
 =========
 
 An unofficial api for [Compass](https://compass.education) using [puppeteer](https://github.com/puppeteer/puppeteer)!!
